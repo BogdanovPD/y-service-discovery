@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: y-service-discovery
+  cloud:
+    config:
+      fail-fast: true
